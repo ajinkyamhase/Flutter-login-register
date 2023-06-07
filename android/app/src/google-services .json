@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355913781501",
+    "firebase_url": "https://ercbasicapp-default-rtdb.firebaseio.com",
+    "project_id": "ercbasicapp",
+    "storage_bucket": "ercbasicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355913781501:android:2368f5eb742c52347bee94",
+        "android_client_info": {
+          "package_name": "com.ajinkya.ercapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355913781501-g51ot86r8eonsbl403jdclivb6q46trr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPGTkYvDvo3gvOIb-s1ubvEohygtndlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355913781501-g51ot86r8eonsbl403jdclivb6q46trr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
